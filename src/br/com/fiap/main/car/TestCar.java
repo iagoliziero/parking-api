@@ -1,4 +1,4 @@
-package br.com.fiap.main;
+package br.com.fiap.main.car;
 
 import br.com.fiap.dao.CarDAO;
 import br.com.fiap.dao.ConnectionFactory;
